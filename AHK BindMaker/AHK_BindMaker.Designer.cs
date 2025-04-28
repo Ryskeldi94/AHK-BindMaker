@@ -37,7 +37,7 @@
             btnGenerateAHK.Name = "btnGenerateAHK";
             btnGenerateAHK.Size = new Size(188, 47);
             btnGenerateAHK.TabIndex = 1;
-            btnGenerateAHK.Text = "сгенерировать .ahk";
+            btnGenerateAHK.Text = "generate .ahk";
             btnGenerateAHK.UseVisualStyleBackColor = true;
             btnGenerateAHK.Click += btnGenerateAHK_Click;
             // 
@@ -66,9 +66,9 @@
             lblHotkey.Location = new Point(705, 32);
             lblHotkey.Margin = new Padding(4, 0, 4, 0);
             lblHotkey.Name = "lblHotkey";
-            lblHotkey.Size = new Size(154, 25);
+            lblHotkey.Size = new Size(99, 25);
             lblHotkey.TabIndex = 4;
-            lblHotkey.Text = "Горячая клавиша";
+            lblHotkey.Text = "The hotkey";
             // 
             // label1
             // 
@@ -76,9 +76,9 @@
             label1.Location = new Point(15, 32);
             label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(117, 25);
+            label1.Size = new Size(110, 25);
             label1.TabIndex = 5;
-            label1.Text = "Приложения";
+            label1.Text = "Applications";
             // 
             // label2
             // 
@@ -86,9 +86,9 @@
             label2.Location = new Point(15, 75);
             label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(50, 25);
+            label2.Size = new Size(46, 25);
             label2.TabIndex = 6;
-            label2.Text = "Путь";
+            label2.Text = "Path";
             // 
             // PathForApp
             // 
@@ -106,7 +106,7 @@
             Browse.Name = "Browse";
             Browse.Size = new Size(88, 31);
             Browse.TabIndex = 8;
-            Browse.Text = "Обзор";
+            Browse.Text = "Browse";
             Browse.UseVisualStyleBackColor = true;
             Browse.Click += Browse_Click;
             // 
@@ -117,7 +117,7 @@
             btnSaveAHK.Name = "btnSaveAHK";
             btnSaveAHK.Size = new Size(188, 47);
             btnSaveAHK.TabIndex = 9;
-            btnSaveAHK.Text = "Сохранить";
+            btnSaveAHK.Text = "Save";
             btnSaveAHK.UseVisualStyleBackColor = true;
             btnSaveAHK.Click += btnSaveAHK_Click;
             // 
