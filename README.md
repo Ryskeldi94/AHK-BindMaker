@@ -19,6 +19,7 @@ Focuses on speed, simplicity, and clean generation without unnecessary complexit
 ## 📋 Requirements
 - Windows 10 or later
 - [.NET Framework 4.7.2+](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+- Installed [AutoHotkey v2](https://www.autohotkey.com/).
 
 ## 📄 License
 Free for personal and non-commercial use.
